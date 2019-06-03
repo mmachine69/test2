@@ -1,3 +1,0 @@
-AUTHOR:username
-
-article
