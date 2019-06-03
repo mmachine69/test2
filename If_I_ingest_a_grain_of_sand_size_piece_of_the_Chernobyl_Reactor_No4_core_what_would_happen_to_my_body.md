@@ -1,0 +1,21 @@
+AUTHOR:Carl Willis
+
+TITLEIf I ingest a grain of sand size piece of the Chernobyl Reactor No.4 core, what would happen to my body?
+
+If you mean a piece of spent fuel that is 30+ years old, probably nothing; certainly nothing obvious and immediate. However, you would receive a higher internal (committed) dose than many occupational regulations allow, and have a marginally higher theoretical likelihood of later detriment such as cancer.
+
+Let’s consider some specifics. In the image below is a piece of reactor fuel I found at the Chernobyl plant in 2010 roughly the size of a grain of sand. I located it in a grassy bit of ground on ChNPP premises from about 15 feet away using a scintillation detector. Up close, I had to switch to a high-range instrument in order to locate the particle and separate it from the other dirt. The dose-distance relationship and a coarse gamma spectrum allow us to determine the activity in the particle and estimate the specific activity, which is consistent with high-burnup power reactor fuel of this age. If you ate this fuel chip, not much of it would likely dissolve in your gut; the matrix is UO2, and U(IV) oxide is poorly soluble even in the acid environment of the gut. But let’s say it did dissolve completely and got metabolized. You’d be committing yourself to about 20 mSv (2 rem) from Cs-137, and probably a similar dose from Sr-90. Basically, if you were a radiation worker in the USA, your annual dose limit of 5 rem would be met. In many countries and facilities, you would exceed annual allowances.
+
+![](https://qph.fs.quoracdn.net/main-qimg-bcf8f13a35d037bafd9fd5e19665fb73)
+
+**_Chip of nuclear fuel from Chernobyl, on my pinkie finger for scale_**
+
+You would have some other problems to be sure. One of the most interesting (annoying) would be passing the portal monitors at ChNPP-Semikhody station or at other exits from the Exclusion Zone. You would set these off. After a brusque Ukrainian shakedown, the dosimetrist would determine that the radiation source was inside you, not on your clothes or personal effects. You would probably be escorted somewhere under supervision until you excreted the bulk of the activity, and then taken to one of these:
+
+![](https://qph.fs.quoracdn.net/main-qimg-1eaf11d81039d8c5c0a3d25e1b07a9fb)
+
+**_Me, riding the whole body counter in SP1430, Chernobyl Nuclear Power Plant, after being inside the Unit 4 “Sarcophagus”_**
+
+It’s a chair with built-in calibrated sodium iodide scintillators that calculates your body burden of Cs-137 and your dose. With any luck, they’d come up with a number much lower than the worst-case estimate above. You would almost certainly be “burned out” from the perspective of remaining employable as a radiation worker at Chernobyl NPP. If you ingested the particle through foolhardiness or improper use of PPE, you’d probably be served your discharge papers on the spot. If it’s determined that you didn’t exceed your regulatory allowance _and_ weren’t responsible for the exposure _and_ you still wanted to work at ChNPP, then you’re probably going to spend the next couple months out of work anyway (while the two-month biological half-life of Cs works its magic on getting you clean inside), returning only for periodic rides in the whole-body counter chair, until folks are satisfied that you won’t set off their portal monitors.
+
+In summary, it is preferable to not eat spent nuclear fuel.
